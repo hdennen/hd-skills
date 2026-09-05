@@ -1,0 +1,3 @@
+interface:
+  display_name: "Review Material Bugs"
+  short_description: "Find consequential bugs with concrete evidence"
